@@ -4,7 +4,7 @@
 
 
 import React from 'react';
-import ChatBox from './components/ChatBox';
+import ChatBox from './components/chatBox';
 import Upload from './components/Upload';
 import './styles.css';
 
